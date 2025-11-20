@@ -11,23 +11,24 @@ const projectData = [
       "Developed a responsive web application that converts AI-generated or robotic text into natural, human-like language. Built using HTML, Raw CSS, Tailwind CSS, and JavaScript. Integrated text-processing logic to enhance readability and maintain a human tone. The frontend handles dynamic input/output, while the backend manages API-based text refinement.",
     link: "https://sagor8187.github.io/Ai-text-to-humanized-text/#",
   },
+  
   {
     id: 2,
+    image: "https://i.ibb.co.com/gLbz4qtc/post.png",
+    category: "Clint Side DESIGN E-Commarce",
+    title: "NEST E-Commarce",
+    description:
+      "Built a responsive Nest e-commerce app using React and Tailwind. Users can browse products, add to cart, and remove items easily. Focused on clean UI, smooth interactions, and seamless shopping experience. Key Features: Product listing, add to cart, remove from cart, responsive design, interactive UI.",
+    link: "https://marvelous-belekoy-79b799.netlify.app/",
+  },
+  {
+    id: 3,
     image: "https://i.ibb.co.com/NdDtkchz/luxe.png",
     category: "UI-UX DESIGN LUXEMART ",
     title: "Luxe Mart – E-commerce Web Application",
     description:
       "Developed a fully responsive e-commerce platform using HTML, Tailwind CSS, and JavaScript. Implemented dynamic product listings, category filters, and an interactive shopping cart system. Focused on clean UI/UX design, fast performance, and seamless user experience across all devices.",
     link: "https://sagor8187.github.io/Luxemart-E-Commarce-project/index.html",
-  },
-  {
-    id: 3,
-    image: "https://i.ibb.co.com/yBQrfX4n/todos.png",
-    category: "UI-UX DESIGN TODO ",
-    title: "TODO Apps",
-    description:
-      "Built an interactive task management app using HTML, CSS, and JavaScript. Users can add, complete, and delete tasks easily. Integrated a timer feature and an auto-delete section for completed or expired tasks. Focused on clean UI, smooth transitions, and productivity-enhancing functionality.Key Features: Add task, mark as complete, delete task, timer set, and auto delete.",
-    link: "https://sagor8187.github.io/Advance-todo-apps/",
   },
   // {
   //   id: 4,
